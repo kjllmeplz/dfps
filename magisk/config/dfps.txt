@@ -3,11 +3,14 @@
 # 修改本配置后，dfps会自动重新加载它
 # Dfps will automatically reload this config file after modification
 
-/touchSlackMs 4000
+/touchSlackMs 3000
 /enableMinBrightness 8
 /useSfBackdoor 0
 
-com.miHoYo.Yuanshen 60 60
 com.hypergryph.arknights 60 60
+com.aniplex.fategrandorder 60 60
+com.miHoYo.GenshinImpact 60 60
+com.HoYoverse.hkrpgoversea 60 60
+com.google.android.youtube 90 60
 - -1 -1
 * 60 120
